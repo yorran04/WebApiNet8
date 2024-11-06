@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApiNet8.props" />
+</Project>
